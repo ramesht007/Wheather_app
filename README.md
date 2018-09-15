@@ -1,2 +1,2 @@
-# Wheathe_app
+# Wheather_app
 uses googlmapsAPI and weather API as backend
